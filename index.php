@@ -26,4 +26,4 @@ if ($_POST) {
 </form>
 
 <a href="signup.php">Signup</a>
-<!-- HI CHALGA SIM SIM -->
+<!-- HI CHALGA SIM SIM plz -->
